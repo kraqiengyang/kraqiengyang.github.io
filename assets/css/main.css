@@ -11,11 +11,6 @@ html, body {
 }
 
 @font-face {
-    font-family: SourceHanSerifCN;
-    src: url("../font/SourceHanSerifCN-Regular.otf");
-}
-
-@font-face {
     font-family: SourceHanSerifTW;
     src: url("../font/SourceHanSerifTW-Regular.otf");
 }
