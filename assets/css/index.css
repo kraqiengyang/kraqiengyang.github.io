@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body {
+	align-content: center;
+	vertical-align: middle;
+	font-family: Microsoft Sans Serif, Helvetica, Source Code Pro;
+	margin: 10px;
+	padding: 3px;
+}
+
+p {
+	font-size: 16px;
+}
