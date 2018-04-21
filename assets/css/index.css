@@ -4,19 +4,19 @@
 html, body {
 	align-content: center;
 	vertical-align: middle;
-	
+	/*font-family: helvetica, Microsoft Sans Serif;*/
 	margin: 10px;
 	padding: 3px;
 }
 
 @font-face {
     font-family: SourceHanSerifCN-Regular;
-    src: url('assets/font/SourceHanSerifCN-Regular.otf');
+    src: url("../font/SourceHanSerifCN-Regular.otf");
 }
 
 @font-face {
     font-family: SourceHanSerifTW-Regular;
-    src: url('assets/font/SourceHanSerifTW-Regular.otf');
+    src: url("../font/SourceHanSerifTW-Regular.otf");
 }
 
 p {
