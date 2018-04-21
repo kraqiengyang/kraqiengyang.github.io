@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body {
+	align-content: center;
+	vertical-align: middle;
+	font-family: Helvetica, Microsoft Sans Serif, Arial;
+	margin: 10px;
+	padding: 3px;
+	border: 3px;
+}
+
+@font-face {
+    font-family: SourceHanSerifCN;
+    src: url("../font/SourceHanSerifCN-Regular.otf");
+}
+
+@font-face {
+    font-family: SourceHanSerifTW;
+    src: url("../font/SourceHanSerifTW-Regular.otf");
+}
+
+@font-face {
+	font-family: Helvetica;
+	src: url("../font/Helvetica.ttf");
+}
+
+@font-face {
+	font-family: SourceCodePro;
+	src: url("../font/SourceCodePro-Light.ttf");
+}
+
+.hans {
+	font-family: SourceHanSerifCN;
+}
+
+.hant {
+	font-family: SourceHanSerifTW;
+}
+
+.latin {
+	font-family: Helvetica;
+}
+
+.code {
+	font-family: SourceCodePro;
+}
