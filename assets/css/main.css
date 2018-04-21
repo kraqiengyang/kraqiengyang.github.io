@@ -30,10 +30,6 @@ html, body {
 	src: url("../font/SourceCodePro-Light.ttf");
 }
 
-.hans {
-	font-family: SourceHanSerifCN;
-}
-
 .hant {
 	font-family: SourceHanSerifTW;
 }
