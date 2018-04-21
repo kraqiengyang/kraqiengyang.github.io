@@ -11,12 +11,12 @@ html, body {
 
 @font-face {
     font-family: SourceHanSerifCN-Regular;
-    src: url(assets/font/SourceHanSerifCN-Regular.otf);
+    src: url('assets/font/SourceHanSerifCN-Regular.otf');
 }
 
 @font-face {
     font-family: SourceHanSerifTW-Regular;
-    src: url(assets/font/SourceHanSerifTW-Regular.otf);
+    src: url('assets/font/SourceHanSerifTW-Regular.otf');
 }
 
 p {
