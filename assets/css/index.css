@@ -9,6 +9,24 @@ html, body {
 	padding: 3px;
 }
 
+@font-face {
+    font-family: SourceHanSerifCN-Regular;
+    src: url(assets/font/SourceHanSerifCN-Regular.otf);
+}
+
+@font-face {
+    font-family: SourceHanSerifTW-Regular;
+    src: url(assets/font/SourceHanSerifTW-Regular.otf);
+}
+
 p {
 	font-size: 16px;
+}
+
+.hans {
+	font-family: SourceHanSerifCN-Regular;
+}
+
+.hant {
+	font-family: SourceHanSerifTW-Regular;
 }
