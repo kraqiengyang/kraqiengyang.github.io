@@ -18,7 +18,11 @@
 </head>
 <body>
 	<div class="container">
-		<h1>Welcome to kraqieng.wang</h1>
+		<h1>Welcome to kraqieng.wang
+		<?php
+			echo "Hello, world!";
+		?>
+		</h1>
 		<br/><br/>
 		<h3 class="text-info">
 			<a href="en/index.html" class="latin">English</a>
